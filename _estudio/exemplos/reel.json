@@ -1,0 +1,62 @@
+{
+ "formato": "reel",
+ "narracao": "Seu site tem menu, tem blog, tem dez botões... e ninguém compra. Sabe por quê? Quem chega não sabe o que fazer. Uma landing page tem uma página, um objetivo e um botão. O LandPG está chegando. Entra na lista de espera: landpg ponto me.",
+ "cenas": [
+  {
+   "tipo": "capa",
+   "dur": 2.6,
+   "kicker": "Pare de perder clientes",
+   "titulo": "Seu site tem <em>10 botões</em>.",
+   "corpo": "E ninguém clica em nenhum."
+  },
+  {
+   "tipo": "lista",
+   "dur": 3.2,
+   "titulo": "O visitante <em>trava</em>:",
+   "itens": [
+    {
+     "icone": "x",
+     "texto": "Menu com 8 opções",
+     "ruim": true
+    },
+    {
+     "icone": "x",
+     "texto": "Texto sobre a empresa",
+     "ruim": true
+    },
+    {
+     "icone": "x",
+     "texto": "Botão perdido no fim",
+     "ruim": true
+    }
+   ]
+  },
+  {
+   "tipo": "mockup",
+   "dur": 3.6,
+   "titulo": "Landing page: <em>um</em> caminho.",
+   "pagina": {
+    "marca": "Studio Bella",
+    "url": "studiobella.landpg.me",
+    "titulo": "Unhas impecáveis em 40 minutos.",
+    "sub": "Agende pelo WhatsApp e escolha seu horário.",
+    "botao": "Agendar agora",
+    "prova": [
+     "4,9 no Google"
+    ]
+   }
+  },
+  {
+   "tipo": "dado",
+   "dur": 2.4,
+   "numero": "1",
+   "titulo": "página. 1 objetivo. <em>1 botão.</em>"
+  },
+  {
+   "tipo": "cta",
+   "dur": 3.2,
+   "titulo": "Landing pages <em>padrão ouro.</em>",
+   "corpo": "Lista de espera aberta."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "formato": "story",
+ "slides": [
+  {
+   "tipo": "contagem",
+   "kicker": "Pré-lançamento",
+   "titulo": "O LandPG está <em>quase</em> aí.",
+   "blocos": [
+    [
+     "1",
+     "conta"
+    ],
+    [
+     "2+",
+     "sites"
+    ],
+    [
+     "0",
+     "complicação"
+    ]
+   ],
+   "corpo": "Uma conta, todos os seus sites."
+  },
+  {
+   "tipo": "celular",
+   "kicker": "Spoiler",
+   "titulo": "Sua página, <em>assim</em>:",
+   "pagina": {
+    "marca": "Café Grão",
+    "url": "cafegrao.landpg.me",
+    "titulo": "Café especial na sua porta.",
+    "sub": "Assinatura mensal com grãos torrados na semana.",
+    "botao": "Quero assinar",
+    "prova": [
+     "Frete grátis"
+    ]
+   }
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Quer acesso <em>antes</em> de todo mundo?",
+   "botao": "landpg.me",
+   "selo": "Link na bio"
+  }
+ ]
+}

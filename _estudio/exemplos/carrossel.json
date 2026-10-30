@@ -1,0 +1,89 @@
+{
+ "formato": "carrossel",
+ "slides": [
+  {
+   "tipo": "capa",
+   "kicker": "Landing pages",
+   "titulo": "Sua página está <em>espantando</em> clientes?",
+   "corpo": "5 sinais de que sim — e como resolver.",
+   "marca_agua": "5"
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Os sinais",
+   "titulo": "Se você marcou <em>2 ou mais</em>, atenção:",
+   "itens": [
+    {
+     "icone": "relogio",
+     "texto": "Demora para abrir",
+     "sub": "No celular, cada segundo pesa."
+    },
+    {
+     "icone": "camadas",
+     "texto": "Menu com 8 opções",
+     "sub": "Quem chega se perde antes de agir."
+    },
+    {
+     "icone": "lupa",
+     "texto": "Ninguém entende a oferta",
+     "sub": "O título fala de você, não do cliente."
+    },
+    {
+     "icone": "cursor",
+     "texto": "Botão escondido no rodapé",
+     "sub": "Se precisa procurar, não clica."
+    }
+   ]
+  },
+  {
+   "tipo": "comparacao",
+   "titulo": "Site comum <em>vs.</em> landing page",
+   "esquerda": {
+    "rotulo": "Site comum",
+    "itens": [
+     "Várias páginas",
+     "Vários objetivos",
+     "Visitante decide sozinho"
+    ]
+   },
+   "direita": {
+    "rotulo": "Landing page",
+    "itens": [
+     "Uma página",
+     "Um objetivo",
+     "Caminho guiado até o botão"
+    ]
+   }
+  },
+  {
+   "tipo": "mockup",
+   "titulo": "Como deve <em>ser</em>:",
+   "pagina": {
+    "marca": "Studio Bella",
+    "url": "studiobella.landpg.me",
+    "titulo": "Unhas impecáveis em 40 minutos.",
+    "sub": "Agende pelo WhatsApp e escolha seu horário sem fila.",
+    "botao": "Agendar agora",
+    "prova": [
+     "4,9 no Google",
+     "+2 mil clientes"
+    ]
+   },
+   "notas": [
+    "Promessa clara",
+    "Um botão só"
+   ]
+  },
+  {
+   "tipo": "dado",
+   "numero": "1",
+   "titulo": "página. <em>Um</em> objetivo.",
+   "corpo": "Tudo que não leva ao botão, sai. É isso que separa uma página bonita de uma página que vende."
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Landing pages <em>padrão ouro.</em>",
+   "corpo": "O LandPG está chegando. Entre na lista de espera e seja dos primeiros."
+  }
+ ]
+}
